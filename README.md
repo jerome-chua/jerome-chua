@@ -14,4 +14,18 @@ My name is Jerome, a software engineer from Singapore. I am constantly learning 
 
 ![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerome-chua&show_icons=true&theme=nord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerome-chua)](https://github.com/jerome-chua/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerome-chua&hide=jupyter%20notebook&layout=compact)](https://github.com/jerome-chua/github-readme-stats)
+
+## 🔗 Connect
+
+<a href="https://www.linkedin.com/in/jeromechua/">
+  <img align="left" alt="Jerome's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://jerome-chua.medium.com/">
+  <img align="left" alt="Jerome's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+</a>
+
+<a href="">
+  <img align="left" alt="Jerome's StackOverflow" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-stackoverflow-2.png">
+</a>
