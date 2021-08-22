@@ -15,7 +15,7 @@ Great to meet you. My name is Jerome, a software engineer from Singapore, curren
 
 ![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerome-chua&show_icons=true&theme=nord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerome-chua&hide=jupyter%20notebook&layout=compact)](https://github.com/jerome-chua/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerome-chua&hide=jupyter%20notebook,html,css,scss,ejs&layout=compact)](https://github.com/jerome-chua/github-readme-stats)
 
 ## 🔗 Connect
 
