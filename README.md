@@ -39,3 +39,7 @@ Great to meet you. My name is Jerome, from Singapore, working as a software engi
 <a href="https://stackoverflow.com/users/10936320/jchu4">
   <img align="left" alt="Jerome's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg">
 </a>
+
+<a href="https://jerome-chua.github.io">
+  <img align="left" alt="Jerome's Projects" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlechrome.svg">
+</a>
