@@ -1,6 +1,6 @@
 # Hi, there! <img src="img/wave.gif" width="30px">
 
-Great to meet you. My name is Jerome, working as a software engineer from Singapore, currently studying. I am constantly learning how to learn better, and I enjoy problem solving.
+Great to meet you. My name is Jerome, from Singapore, working as a software engineer, studying part-time. I am constantly learning how to learn better, & I enjoy problem solving.
 
 ## 🔧 Technologies & Tools
 
@@ -28,7 +28,7 @@ Great to meet you. My name is Jerome, working as a software engineer from Singap
 
 ## &#x1f4c8; GitHub Stats
 
-![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerome-chua&show_icons=true&theme=nord)
+![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerome-chua&show_icons=true&theme=blue-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerome-chua&hide=jupyter%20notebook,html,css,scss,ejs&layout=compact)](https://github.com/jerome-chua/github-readme-stats)
 
