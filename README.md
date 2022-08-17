@@ -26,12 +26,6 @@ Great to meet you. My name is Jerome, from Singapore, working as a software engi
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
-
-![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerome-chua&show_icons=true&theme=blue-green)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerome-chua&hide=jupyter%20notebook,html,css,scss,ejs&layout=compact)](https://github.com/jerome-chua/github-readme-stats)
-
 ## 🔗 Connect
 
 <a href="https://www.linkedin.com/in/jeromechua/">
