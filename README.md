@@ -1,6 +1,6 @@
 # Hi, there! <img src="img/wave.gif" width="30px">
 
-Great to meet you. My name is Jerome, from Singapore, working as a software engineer, studying part-time. I am constantly learning how to learn better, & I enjoy problem solving.
+Great to meet you. My name is Jerome, from Singapore, working as an AI engineer, studying part-time. I am constantly learning how to learn better, & I enjoy problem solving.
 
 ## 🔧 Technologies & Tools
 
@@ -39,7 +39,7 @@ Great to meet you. My name is Jerome, from Singapore, working as a software engi
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 🔗 Connect
+## 🔗 Connect 
 
 <a href="https://www.linkedin.com/in/jeromechua/">
   <img align="left" alt="Jerome's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -56,3 +56,8 @@ Great to meet you. My name is Jerome, from Singapore, working as a software engi
 <a href="https://jerome-chua.github.io">
   <img align="left" alt="Jerome's Projects" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlechrome.svg">
 </a>
+
+<br />
+<br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerome-chua&label=Profile%20views&color=5e34eb&style=flat-square&label=%20+%20+👀+PROFILE+VIEWS+%20:+%20" alt="jerome-chua-profile-views" /> </p>
