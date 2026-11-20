@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 145 30" width="145" height="30" fill="none" role="img" aria-label="LinkedIn"><style>
+.mono{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.rise{opacity:0;animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+.draw{stroke-dasharray:1000;stroke-dashoffset:1000;animation:draw 1.3s cubic-bezier(.6,0,.2,1) forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.flow{stroke-dasharray:3 6;animation:flow 1.5s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-18}}
+.wave{transform-box:fill-box;transform-origin:70% 80%;animation:wave 2.6s ease-in-out infinite}
+@keyframes wave{0%,60%,100%{transform:rotate(0)}10%,30%{transform:rotate(16deg)}20%{transform:rotate(-8deg)}40%{transform:rotate(-4deg)}50%{transform:rotate(10deg)}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 2.4s ease-out infinite}
+@keyframes ring{from{transform:scale(1);opacity:.9}to{transform:scale(2.6);opacity:0}}
+@media (prefers-reduced-motion:reduce){.rise,.draw,.flow,.wave,.ring{animation:none}.rise{opacity:1}.draw{stroke-dashoffset:0}.ring{opacity:0}}
+</style><defs><linearGradient id="accent-dark" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#818cf8"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#e879f9"/></linearGradient><linearGradient id="accent-light" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4f46e5"/><stop offset="0.5" stop-color="#7c3aed"/><stop offset="1" stop-color="#c026d3"/></linearGradient></defs><rect x=".5" y=".5" width="144" height="29" stroke="#d1d9e0"/><svg x="13.0" y="8.0" width="14" height="14" viewBox="0 0 24 24"><path fill="#0a66c2" d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg><text class="mono" x="36.0" y="19.0" font-size="11" fill="#1f2328" letter-spacing="2">LINKEDIN</text><path d="M121 20l8-8m-6 0h6v6" stroke="url(#accent-light)" stroke-width="1.5"/></svg>

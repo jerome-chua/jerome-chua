@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 197 30" width="197" height="30" fill="none" role="img" aria-label="Stack Overflow"><style>
+.mono{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.rise{opacity:0;animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+.draw{stroke-dasharray:1000;stroke-dashoffset:1000;animation:draw 1.3s cubic-bezier(.6,0,.2,1) forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.flow{stroke-dasharray:3 6;animation:flow 1.5s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-18}}
+.wave{transform-box:fill-box;transform-origin:70% 80%;animation:wave 2.6s ease-in-out infinite}
+@keyframes wave{0%,60%,100%{transform:rotate(0)}10%,30%{transform:rotate(16deg)}20%{transform:rotate(-8deg)}40%{transform:rotate(-4deg)}50%{transform:rotate(10deg)}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 2.4s ease-out infinite}
+@keyframes ring{from{transform:scale(1);opacity:.9}to{transform:scale(2.6);opacity:0}}
+@media (prefers-reduced-motion:reduce){.rise,.draw,.flow,.wave,.ring{animation:none}.rise{opacity:1}.draw{stroke-dashoffset:0}.ring{opacity:0}}
+</style><defs><linearGradient id="accent-dark" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#818cf8"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#e879f9"/></linearGradient><linearGradient id="accent-light" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4f46e5"/><stop offset="0.5" stop-color="#7c3aed"/><stop offset="1" stop-color="#c026d3"/></linearGradient></defs><rect x=".5" y=".5" width="196" height="29" stroke="#d1d9e0"/><svg x="13.0" y="8.0" width="14" height="14" viewBox="0 0 24 24"><path fill="#f58025" d="M15.725 0l-1.72 1.277 6.39 8.588 1.716-1.277L15.725 0zm-3.94 3.418l-1.369 1.644 8.225 6.85 1.369-1.644-8.225-6.85zm-3.15 4.465l-.905 1.94 9.702 4.517.904-1.94-9.701-4.517zm-1.85 4.86l-.44 2.093 10.473 2.201.44-2.092-10.473-2.203zM1.89 15.47V24h19.19v-8.53h-2.133v6.397H4.021v-6.396H1.89zm4.265 2.133v2.13h10.66v-2.13H6.154Z"/></svg><text class="mono" x="36.0" y="19.0" font-size="11" fill="#1f2328" letter-spacing="2">STACK OVERFLOW</text><path d="M173 20l8-8m-6 0h6v6" stroke="url(#accent-light)" stroke-width="1.5"/></svg>
